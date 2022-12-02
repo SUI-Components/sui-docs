@@ -1,0 +1,8 @@
+{
+  "label": "SUI Tools",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "SUI is a set of tools which goal to ease development of SUI-based components and web apps"
+  }
+}

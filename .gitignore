@@ -20,8 +20,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # docs
-docs/components
-docs/design-ops
-docs/sui-components
-docs/sui-tools
 .vercel
