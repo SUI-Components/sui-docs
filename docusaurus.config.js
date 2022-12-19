@@ -374,6 +374,15 @@ const config = {
         darkTheme: darkCodeTheme,
         defaultLanguage: "javascript",
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: "32Y03CDQ8M",
+
+        // Public API key: it is safe to commit it
+        apiKey: "e55cf5a068ee7deb55db5fefa049a383",
+
+        indexName: "adevinta",
+      },
     }),
 };
 
